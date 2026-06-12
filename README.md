@@ -21,7 +21,7 @@ It provides authorized developers and users with access to:
 
 ## 📜 Official Policies
 
-- **[End User License Agreement (EULA)](POLICIES/EULA.md)**
+- **[End User License Agreement (EULA)](EULA.md)**
 
 These documents govern the use of all Fentendo hardware, firmware, and software. Users and developers are required to comply with these terms.
 
