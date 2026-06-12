@@ -1,3 +1,5 @@
+![Fentendo Logo](logo.png)
+# **Fentendo Co, LTD**
 # Fentendo End User License Agreement (EULA)
 
 **Effective Date:** June 2026
